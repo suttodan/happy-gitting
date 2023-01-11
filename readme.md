@@ -10,3 +10,8 @@
 * push edits back to gh!  
   `git push`
   
+This section is where I'm doing some edits!
+
+My gitting has been quite enjoyable, I must say.
+
+Thank you very much for the experience!
